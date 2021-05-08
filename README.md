@@ -1,4 +1,4 @@
-# ee381project4
+# cecs326project4
 The purpose and goal of this project is to design and implement several classic CPU scheduling algorithms.
 For our project, the code executed to simulate these CPU scheduling algorithms was done using Java and ran on a Java IDE.
 The three specific scheduling algorithms used for this project were first-come, first-served (FCFS), priority scheduling, and round-robin scheduling.
